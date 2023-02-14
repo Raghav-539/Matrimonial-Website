@@ -1,0 +1,47 @@
+
+/* Home */
+
+#home{
+    background-image: url(../public/images/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+/* Cards */
+.card{
+    transition: all 0.5s ease;
+}
+
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+}
+
+/* Login Form  */
+
+.login-form{
+    background-image: url(../public/images/img7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
+
+/* Registeration Form */
+
+.register-form{
+    background-image: url(../public/images/img7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+/* Footer */
+
+#footer{
+    background-image: url(../public/images/img6.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 65vh;
+}
